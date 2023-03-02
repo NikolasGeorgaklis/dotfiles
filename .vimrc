@@ -22,6 +22,4 @@ call plug#begin()
 "Plug 'neoclide/coc.nvim'
 
 call plug#end()
-highlight ExtraWhitespace ctermbg=red guibg=red
-match ExtraWhitespace /\s\+$/
 
